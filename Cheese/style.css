@@ -1,0 +1,21 @@
+.black{
+background-color: #0c7dff;
+float: left;
+width: 80px;
+height: 70px;
+margin: 0px 0px 0px 0px;
+border: 1px solid #333;
+}
+
+.white{
+background-color: #ff63f7;
+float: left;
+width:80px;
+height: 70px;
+border: 1px solid #333;
+}
+
+#A{
+position: absolute;
+left: 25%;
+}

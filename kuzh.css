@@ -31,3 +31,16 @@ li:hover {
 body{
 	background: linear-gradient(to right,#ff63f7,#0c7dff);
 }
+
+h1>a{
+	font-size:32px;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: top;
+	width:214px;
+	height:40px;
+
+}
